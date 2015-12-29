@@ -1,0 +1,5 @@
+Git is a version control system
+
+I love Git very much
+
+git is amamzing!
